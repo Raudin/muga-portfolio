@@ -8,10 +8,10 @@ const meta = {
 const introdata = {
     title: "I’m Mark MUGA",
     animated: {
-        first: "I'm something of a scientist myself!",
-        second: "... a programmer,",
-        third: "...a tech enthusiast.",
-        fourth: "jrhrhugj",
+        first: "I'm a tech enthusiast...",
+        second: ",a fullstack developer...",
+        third: "and a nerd for human-computer interaction.",
+        fourth: "I'm something of a scientist myself. LOL!!",
     },
     description: "",
     your_img_url: "https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif",
@@ -57,11 +57,11 @@ const worktimeline = [{
 
 const skills = [{
         name: "Python",
-        value: 90,
+        value: 80,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "Django",
+        value: 75,
     },
     {
         name: "Javascript",
@@ -71,39 +71,36 @@ const skills = [{
         name: "React",
         value: 60,
     },
-    {
-        name: "Jquery",
-        value: 85,
-    },
+    
 ];
 
 const services = [{
-        title: "web development",
+        title: "Software development",
+        description: "My expertise so far has more ground on web development with a two year experience, whereby i design and build both front-end and back-end components of web applications..",
+    },
+    {
+        title: "Airtificial Intelligence",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
-        title: "Consultancy",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Design",
+        title: "Machine Learning",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
 ];
 
 const dataportfolio = [{
         img: "",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "",
         link: "#",
     },
     {
-        img: "https://legacy.travelnoire.com/wp-content/uploads/2021/11/GettyImages-1170998900.jpg",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "",
+        desctiption: "",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "",
+        desctiption: "",
         link: "#",
     },
    
@@ -113,7 +110,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "markmuga72@gmail.com",
     YOUR_FONE: "+254-748-803-883",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: " ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_fqduaws",
