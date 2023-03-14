@@ -1,7 +1,7 @@
 
 const logotext = "MUGA";
 const meta = {
-    title: "MARK MUGA",
+    title: "MUGA",
     description: "I’m Mark Muga tech enthusiast _ Full stack devloper,currently working in Nairobi",
 };
 
@@ -41,7 +41,7 @@ const schooling = [{
 const worktimeline = [{
         jobtitle: "INFORMATION TECHNOLOGY INTERN",
         where: "KCAA",
-        date: "2023",
+        date: "JAN 2023 - APR 2023",
     },
     {
         jobtitle: "",
