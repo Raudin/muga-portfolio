@@ -76,31 +76,31 @@ const skills = [{
 
 const services = [{
         title: "Software development",
-        description: "My expertise so far has more ground on web development with a two year experience, whereby i design and build both front-end and back-end components of web applications..",
+        description: " ",
     },
     {
         title: "Airtificial Intelligence",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: " ",
     },
     {
         title: "Machine Learning",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: " ",
     },
 ];
 
 const dataportfolio = [{
-        img: "",
-        desctiption: "",
-        link: "#",
+        img: "https://live.staticflickr.com/65535/52750925269_68e58d6a3b_c.jpg",
+        description: "PublicEye",
+        link: "https://github.com/PUBLICEYEAPP/PUBLICEYE.git",
     },
     {
-        img: "",
-        desctiption: "",
-        link: "#",
+        img: "https://live.staticflickr.com/65535/52751405478_6a7910c7bf_h.jpg",
+        description: "Portfolio",
+        link: "https://github.com/Raudin/Django-dictionary.git",
     },
     {
-        img: "",
-        desctiption: "",
+        img: "https://live.staticflickr.com/65535/52750684836_87d46b4cb7_c.jpg",
+        description: "CampusCash",
         link: "#",
     },
    
@@ -110,7 +110,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "markmuga72@gmail.com",
     YOUR_FONE: "+254-748-803-883",
-    description: " ",
+    description: "If interested in working with me or hiring me, see my details below or send me a message on the contact form.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_fqduaws",
