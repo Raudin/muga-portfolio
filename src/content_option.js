@@ -96,7 +96,7 @@ const dataportfolio = [{
     {
         img: "https://live.staticflickr.com/65535/52751405478_6a7910c7bf_h.jpg",
         description: "Portfolio",
-        link: "https://github.com/Raudin/Django-dictionary.git",
+        link: "https://muga-portfolio.vercel.app/",
     },
     {
         img: "https://live.staticflickr.com/65535/52750684836_87d46b4cb7_c.jpg",
