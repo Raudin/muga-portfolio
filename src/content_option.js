@@ -114,7 +114,7 @@ const contactConfig = {
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_fqduaws",
-    YOUR_TEMPLATE_ID: "template_id",
+    YOUR_TEMPLATE_ID: "template_c93j13n",
     YOUR_USER_ID: "user_id",
 };
 
