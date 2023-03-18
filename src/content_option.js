@@ -110,12 +110,12 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "markmuga72@gmail.com",
     YOUR_FONE: "+254-748-803-883",
-    description: "If interested in working with me or hiring me, see my details below or send me a message on the contact form.",
+    description: "If you are interested in working with me or hiring me, see my details below or send me a message on the contact form.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_fqduaws",
     YOUR_TEMPLATE_ID: "template_c93j13n",
-    YOUR_USER_ID: "user_id",
+    YOUR_USER_ID: "markmuga72@gmail.com",
 };
 
 const socialprofils = {
