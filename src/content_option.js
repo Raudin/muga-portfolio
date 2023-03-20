@@ -91,17 +91,26 @@ const services = [{
 const dataportfolio = [{
         img: "https://live.staticflickr.com/65535/52750925269_68e58d6a3b_c.jpg",
         description: "PublicEye",
+        more:"",
         link: "https://github.com/PUBLICEYEAPP/PUBLICEYE.git",
     },
     {
         img: "https://live.staticflickr.com/65535/52751405478_6a7910c7bf_h.jpg",
         description: "Portfolio",
-        link: "https://muga-portfolio.vercel.app/",
+        more:"A personal portfolio made with react.js",
+        link: "https://muga.vercel.app/",
     },
     {
-        img: "https://live.staticflickr.com/65535/52750684836_87d46b4cb7_c.jpg",
+        img: "https://live.staticflickr.com/65535/52759515095_418b77e87b_c.jpg",
         description: "CampusCash",
-        link: "#",
+        more:"",
+        link: "https://github.com/raudin",
+    },
+    {
+        img: "https://live.staticflickr.com/65535/52759360689_77299b9f2b_z.jpg",
+        description: "Hangman game",
+        more: "Classic hangman game made with pygame.",
+        link: "https://github.com/raudin/hangman",
     },
    
     
