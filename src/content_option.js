@@ -8,8 +8,8 @@ const meta = {
 const introdata = {
     title: "I’m Mark MUGA",
     animated: {
-        first: "I'm a tech enthusiast...",
-        second: ",a fullstack developer...",
+        first: "I'm a tech enthusiast,..",
+        second: "a fullstack developer...",
         third: "and a nerd for human-computer interaction.",
         fourth: "I'm something of a scientist myself. LOL!!",
     },
@@ -22,8 +22,8 @@ const dataabout = {
     aboutme: "As a computer science student who is passionate about software development, artificial intelligence, and problem solving, I have honed a set of special skills that prepares me for a variety of jobs in the IT sector. I have a solid foundation in programming and software design thanks to my education in computer science, and my interest in AI has helped me to keep up with the most recent advancements in this quickly-evolving subject. I am a well-rounded candidate for positions in software development, data analysis, and business development because of my technical abilities, capacity for complicated problem-solving, and interest in business. I can't wait to advance professionally, learn more, and have a positive influence on the tech sector.",
 };
 const schooling = [{
-    school: "Jomo Kenyatta University of Africulture and Technology",
-    course: "Computer Science",
+    school: "Jomo Kenyatta University of Agriculture and Technology",
+    course: "BSC. Computer Science",
     date: "2019-2023",
 },
 {
@@ -119,12 +119,12 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "markmuga72@gmail.com",
     YOUR_FONE: "+254-748-803-883",
-    description: "If you are interested in working with me or hiring me, see my details below or send me a message on the contact form.",
+    description: "If you are interested in working with me or hiring me, reach my socials or send me a message on the contact form.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_fqduaws",
     YOUR_TEMPLATE_ID: "template_c93j13n",
-    YOUR_USER_ID: "sb01lyRtgVDlQBTFu",
+    YOUR_USER_ID: "fZzpIMiKhQqfWoNuDvPIP",
 };
 
 const socialprofils = {
