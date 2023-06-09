@@ -86,6 +86,10 @@ const services = [{
         title: "Machine Learning",
         description: " ",
     },
+    {
+        title: "Consultancy",
+        description: " ",
+    },
 ];
 
 const dataportfolio = [{
