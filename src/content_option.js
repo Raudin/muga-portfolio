@@ -74,6 +74,25 @@ const skills = [{
     
 ];
 
+const frameworks = [{
+        name: "Python",
+        value: 80,
+    },
+    {
+        name: "Django",
+        value: 75,
+    },
+    {
+        name: "Javascript",
+        value: 80,
+    },
+    {
+        name: "React",
+        value: 60,
+    },
+    
+];
+
 const services = [{
         title: "Software development",
         description: " ",
