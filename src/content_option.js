@@ -92,7 +92,7 @@ const skills = [{
 
 const services = [{
         title: "Software development",
-        description: " ",
+        description: "fullstack ",
     },
     {
         title: "Airtificial Intelligence",
