@@ -122,8 +122,8 @@ const dataportfolio = [{
     },
     {
         img: "https://live.staticflickr.com/65535/52759515095_418b77e87b_c.jpg",
-        description: "CampusCash",
-        more:"",
+        description: "Movie Buzz",
+        more:"Movie app built with next(reactjs) + tailwindcss",
         link: "https://github.com/raudin",
     },
     {
