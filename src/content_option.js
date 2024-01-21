@@ -8,13 +8,13 @@ const meta = {
 const introdata = {
     title: "I’m Mark MUGA",
     animated: {
-        first: "I'm a tech enthusiast,..",
-        second: "a fullstack developer...",
+        first: "I'm a software engineer,..",
+        second: "a tech enthusiast...",
         third: "and a nerd for human-computer interaction.",
         fourth: "I'm something of a scientist myself. LOL!!",
     },
     description: "",
-    your_img_url: "https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif",
+    your_img_url: "https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
 };
 
 const dataabout = {
