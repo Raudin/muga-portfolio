@@ -92,19 +92,19 @@ const skills = [{
 
 const services = [{
         title: "Software development",
-        description: "fullstack ",
+        description: "I bring my passion for code to life, building innovative and user-friendly software solutions. From concept to deployment, I can handle all aspects of the development process.",
     },
     {
         title: "Airtificial Intelligence",
-        description: " ",
+        description: "Fascinated by the potential of AI, I'm constantly learning and exploring its applications. I have experience in areas like machine learning and natural language processing, eager to tackle new challenges in this ever-evolving field.",
     },
     {
         title: "Machine Learning",
-        description: " ",
+        description: "With a strong foundation in machine learning algorithms, I can help you unlock the power of your data. I'm skilled in building models for tasks like prediction and classification, passionate about finding meaningful insights from information.",
     },
     {
         title: "Consultancy",
-        description: " ",
+        description: "Leveraging my technical expertise, I can provide insightful advice and guidance on your software development projects. I enjoy collaborating and helping others achieve their technology goals.",
     },
 ];
 
